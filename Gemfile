@@ -5,7 +5,7 @@ gemspec
 
 gem 'rb-fsevent', '~> 0.9.1'
 
- Development
+Development
  gem 'locomotivecms_common', github: 'locomotivecms/common', branch: 'master', require: false
  gem 'locomotivecms_coal',   github: 'soross/coal',   branch: 'master', require: false
  gem 'locomotivecms_steam',  github: 'locomotivecms/steam',  branch: 'master', require: false
